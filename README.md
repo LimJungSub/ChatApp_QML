@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0d0906ed-0098-4fbc-9227-eb9bd0684c40)<h2>[BasicQTcp_QML][QTcp 학습용] 간단한 메시지전송 프로그램</h2>
+<h2>[BasicQTcp_QML][QTcp 학습용] 간단한 메시지전송 프로그램</h2>
 <img width="1225" alt="image" src="https://github.com/user-attachments/assets/32da2e44-6d65-43f6-a849-a199701a513e">
 
 <h2>[Advanced_CouncurrentMultipleChatApp]</h2>
