@@ -1,10 +1,18 @@
-<h2>[BasicQTcp_QML][QTcp 학습용] 간단한 메시지전송 프로그램</h2>
+![image](https://github.com/user-attachments/assets/0d0906ed-0098-4fbc-9227-eb9bd0684c40)<h2>[BasicQTcp_QML][QTcp 학습용] 간단한 메시지전송 프로그램</h2>
 <img width="1225" alt="image" src="https://github.com/user-attachments/assets/32da2e44-6d65-43f6-a849-a199701a513e">
 
 <h2>[Advanced_CouncurrentMultipleChatApp]</h2>
 <h3>부가 기능</h3>
-1. 메시지 중요도 설정 : 메시지의 중요도(1~4)에 따라, 중요도가 4인 긴급 메시지는 모든 클라이언트가 새 창을 띄우고 해당 창에 포커스가 된 채로 메시지를 전달받게 됨.
+<h4>[1] 서버는 접속이 허용된 유저 파일을 사전에 받는다.</h4> 
+서버가 서버를 열때, login.txt파일을 인자로 받는다.
+	인자로 받은 login.txt파일에 있는 유저만 채팅에 참여가 가능하도록 한다.
+	이 과정에서 서버는 하단에 로그인 목록을 gui리스트 형태로 갖고있다.
+	접속에 성공한 유저는 리스트에 border값을 주어 미접속 유저와 구별한다.
+(클라이언트는 해당 리스트파일에 대한 정보를 갖고있지않으며 채팅기록만 보인다)![image](https://github.com/user-attachments/assets/2b82fe7e-d177-4ba4-b8a5-eb69aa574183)
+
+
+<h4>[2] 메시지 중요도 설정</h4>
+  메시지의 중요도(1~4)에 따라, 중요도가 4인 긴급 메시지는 모든 클라이언트가 새 창을 띄우고 해당 창에 포커스가 된 채로 메시지를 전달받게 됨.
 <br>
-
-
-2. url 하이라이팅
+<h4>[3] url 하이라이팅</h4>
+http 또는 https로 시작하는 url은 하이라이팅하여 해당 웹사이트에 바로 접속이 가능하게 한다.
