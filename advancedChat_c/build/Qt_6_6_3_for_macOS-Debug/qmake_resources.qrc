@@ -1,0 +1,5 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/advancedChat_c">
+<file alias="init.qml">/Users/imjeongseob/QT_Example/advancedChat_c/init.qml</file>
+</qresource>
+</RCC>

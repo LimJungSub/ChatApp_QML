@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>login.txt</file>
+        <file>main.qml</file>
+    </qresource>
+</RCC>
