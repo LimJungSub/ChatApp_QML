@@ -1,7 +1,7 @@
 <h2>[BasicQTcp_QML][QTcp 학습용] 간단한 메시지전송 프로그램</h2>
 <img width="1225" alt="image" src="https://github.com/user-attachments/assets/32da2e44-6d65-43f6-a849-a199701a513e">
 
-<h2>[Advanced_CouncurrentMultipleChatApp]</h2>
+<h2>[Advanced_MultiClientChatApp]</h2>
 <h3>부가 기능</h3>
 <h4>[1] 서버는 접속이 허용된 유저 파일을 사전에 받는다.</h4> 
 서버가 서버를 열때, login.txt파일을 인자로 받는다.
